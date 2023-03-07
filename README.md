@@ -1,24 +1,24 @@
-##Project0
-####steps to run project0 
-#####Installation
-pyenv install 3.10.1
-pyenv global 3.10.1
-pip install --upgrade pip
-#####Running
+##Project0  
+####steps to run project0   
+#####Installation  
+pyenv install 3.10.1  
+pyenv global 3.10.1  
+pip install --upgrade pip  
+#####Running  
 - cd cs5293sp23-project0/
 - pipenv shell
 - pipenv run python project0/main.py --incidents url
 - pipenv run python -m pytest (to run test cases)
 
 
-####Packages
-pytest
-pypdf
-####Folders
-tests
-docs
-project0
-####Recording
+####Packages   
+- pytest
+- pypdf
+####Folders  
+- tests
+- docs
+- project0
+####Recording  
 ![](docs/TA_demo.gif)
 ####Project Structure
 ![](docs/text_tree.png)
