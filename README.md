@@ -1,4 +1,4 @@
-## Project0  
+## Web scraping using python and its libraries  
 #### steps to run project0   
 ##### Installation  
 pyenv install 3.10.1  
