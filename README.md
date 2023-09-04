@@ -1,3 +1,4 @@
+## An application that uses python and its libraries like pandas, numpy and regular expressions to extract the web documents(that contains police incident data) and insert them into sql lite database and sorting the documents according number of the times the incident occured.
 ## Web scraping using python and its libraries  
 #### steps to run project0   
 ##### Installation  
